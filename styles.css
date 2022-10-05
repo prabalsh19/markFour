@@ -16,6 +16,12 @@ nav {
   padding: 1rem;
   color: white;
 }
+nav h1 {
+  color: white;
+}
+a {
+  text-decoration: none;
+}
 
 li {
   display: inline;
