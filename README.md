@@ -1,7 +1,7 @@
 #  Portfolio
 
 This is the main portfolio page for the levelOne neogCamp admission.
-##### Tech Stack Used - HTML,CSS
+#### Tech Stack Used - HTML,CSS
 
 Live Project - https://prabalsharma-portfolio.netlify.app/
 
