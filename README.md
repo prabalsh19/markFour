@@ -5,4 +5,4 @@ Tech Stack Used - HTML,CSS
 
 Live Project - https://prabalsharma-portfolio.netlify.app/
 
-[![homePage](https://github.com/prabalsh19/markFour/blob/main/homePage.PNG?raw=true "homePage")](http://https://github.com/prabalsh19/markFour/blob/main/homePage.PNG?raw=true "homePage")
+[![homePage](https://raw.githubusercontent.com/prabalsh19/markFour/main/homePage.PNG?raw=true "homePage")](https://raw.githubusercontent.com/prabalsh19/markFour/main/homePage.PNG?raw=true "homePage")
