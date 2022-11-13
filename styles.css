@@ -30,6 +30,9 @@ li {
 nav .link {
   color: white;
 }
+nav .link:hover {
+  color: rgb(0, 0, 0);
+}
 .link {
   box-sizing: border-box;
   text-decoration: none;
@@ -70,6 +73,14 @@ nav .link {
   width: 800px;
   margin: auto;
 }
+.section .link {
+  font-size: medium;
+}
+
+.section .link-secondary:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
 .section p {
   padding-bottom: 1rem;
 }
@@ -100,6 +111,9 @@ nav .link {
   text-align: center;
   margin: 0;
   color: white;
+}
+.footer h2 {
+  margin-left: 2rem;
 }
 .footer .link {
   color: white;
